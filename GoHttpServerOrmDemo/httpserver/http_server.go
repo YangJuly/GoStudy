@@ -1,7 +1,7 @@
 package httpserver
 
 import (
-	"GoStudy/models"
+	"GoStudy/GoHttpServerOrmDemo/models"
 	"encoding/json"
 	"fmt"
 	"net/http"

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GoStudy/httpserver"
-	_ "GoStudy/models"
+	"GoStudy/GoHttpServerOrmDemo/httpserver"
+	_ "GoStudy/GoHttpServerOrmDemo/models"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
 	"net/http"
