@@ -4,13 +4,11 @@ import (
 	"GoStudy/GoHttpServerOrmDemo/httpserver"
 	"github.com/go-redis/redis"
 
-	//"GoStudy/GoHttpServerOrmDemo/httpserver"
-	//_ "GoStudy/GoHttpServerOrmDemo/models"
+	_ "GoStudy/GoHttpServerOrmDemo/models"
 	"fmt"
 	"net/http"
 
-	//_ "github.com/go-sql-driver/mysql"
-	//"net/http"
+	_ "github.com/go-sql-driver/mysql"
 )
 
 func main(){
