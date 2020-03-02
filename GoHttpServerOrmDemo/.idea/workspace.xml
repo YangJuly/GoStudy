@@ -20,24 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf4a5c43-2ad0-43b6-af39-028ff2c0e706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GoHttpServerOrmDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../httpserver/http_server.go" beforeDir="false" afterPath="$PROJECT_DIR$/httpserver/http_server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../models/hotel_op.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/hotel_op.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../models/table_struct.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/table_struct.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../models/xorm.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/xorm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/demo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.13.8/libexec" />
   <component name="Git.Settings">
@@ -56,11 +53,33 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build GoStudy/GoHttpServerOrmDemo/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoHttpServerOrmDemo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main/demo.go" />
+      <package value="GoStudy/GoHttpServerOrmDemo/main" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build GoStudy/GoHttpServerOrmDemo/main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
@@ -82,5 +101,11 @@
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="412" y="103" key="#go_build_GoStudy/GoHttpServerOrmDemo/main" timestamp="1582705454199">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="412" y="103" key="#go_build_GoStudy/GoHttpServerOrmDemo/main/0.0.1440.900@0.0.1440.900" timestamp="1582705454199" />
   </component>
 </project>
